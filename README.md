@@ -23,7 +23,7 @@ Este site exemplifica nossa abordagem à flexibilidade e capacidade responsiva, 
 
 ## Por Que Escolher Nosso Site?
 
-Nossa abordagem focada no usuário e na experiência técnica garante que cada visita seja fluida e agradável. Queremos proporcionar a melhor interação possível, independentemente do dispositivo que você esteja usando.
+A abordagem focada no usuário e na experiência técnica garante que cada visita seja fluida e agradável. Queremos proporcionar a melhor interação possível, independentemente do dispositivo que você esteja usando.
 <div align="left">
   <h4>No seu celular,</h4>
   <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229076002618081381/image.png?ex=662e5d3a&is=661be83a&hm=0135350c2dfce68dfbbef3a66e9600b3f51db2e9d19ba8f88f4de7478f16697c&" width="320">
